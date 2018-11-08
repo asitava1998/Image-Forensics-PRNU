@@ -1,0 +1,8 @@
+school
+university
+mountains
+rivers
+aurora
+forest
+grassland
+
